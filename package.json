@@ -1,0 +1,16 @@
+{
+  "name": "khemistree",
+  "version": "0.0.1",
+  "description": "A chemistry utility functions",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Bytenol",
+  "license": "ISC",
+  "type": "module"
+}
